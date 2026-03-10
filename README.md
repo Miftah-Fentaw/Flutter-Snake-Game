@@ -26,8 +26,8 @@ Neon Snake is built entirely with **Flutter**, showcasing what's possible with c
 
 ##  previews
 <div align="center">
-  <img src="assets/preview/snake.png" alt="Neon Snake Logo" width="150" height="150" />
- <img src="assets/preview/snake2.png" alt="Neon Snake Logo" width="150" height="150" />
+  <img src="assets/preview/snake.png" alt="Neon Snake" width="150" height="150" />
+ <img src="assets/preview/snake2.png" alt="Neon Snake" width="150" height="150" />
 </div>
 
 ### Prerequisites
