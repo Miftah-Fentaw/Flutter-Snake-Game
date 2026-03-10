@@ -24,7 +24,11 @@ Neon Snake is built entirely with **Flutter**, showcasing what's possible with c
 - **Animations**: Using `AnimationController`s, the game achieves smooth movement, glowing neon pulses, screen shakes, swallow effects, and UI transitions.
 - **Audio Integration**: Using `audioplayers`, the app layers custom SFX over continuous background tracks.
 
-## 🛠️ Getting Started
+##  previews
+<div align="center">
+  <img src="assets/preview/snake.png" alt="Neon Snake Logo" width="150" height="150" />
+ <img src="assets/preview/snake2.png" alt="Neon Snake Logo" width="150" height="150" />
+</div>
 
 ### Prerequisites
 
@@ -53,4 +57,4 @@ Neon Snake is built entirely with **Flutter**, showcasing what's possible with c
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-# Flutter-Snake-Game
+
