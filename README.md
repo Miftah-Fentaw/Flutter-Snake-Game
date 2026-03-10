@@ -39,11 +39,11 @@ Neon Snake is built entirely with **Flutter**, showcasing what's possible with c
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Miftah-Fentaw/Flutter-Snake-Game.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd game
+   cd Flutter-Snake-Game.git
    ```
 3. Get dependencies:
    ```bash
